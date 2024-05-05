@@ -1,0 +1,24 @@
+.nice{
+    width: 70%;
+    min-height: 150%;
+  border: 0px solid black;
+  padding: 80px;
+  margin: 50px;
+  margin-bottom: 30px;
+  background-color: gray;
+
+}
+.feature{
+    width: 400px;
+    float: right;
+    margin-right: 70px;
+    height: 400px;
+    justify-content: space-between;
+}
+.nice h1{
+    font-size: 60px;
+}
+.nice p{
+    font-size: 30px;
+}
+
